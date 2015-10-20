@@ -1,6 +1,6 @@
 # p5-Language-BF
 
-p6 to BF translator.
+BF to Perl6 translator.
 
 ## SYNOPSIS
 
