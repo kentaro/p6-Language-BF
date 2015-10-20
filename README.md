@@ -1,4 +1,4 @@
-# p5-Language-BF
+# p6-Language-BF
 
 BF to Perl6 translator.
 
