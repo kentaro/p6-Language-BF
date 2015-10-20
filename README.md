@@ -26,7 +26,7 @@ Hello World!
 
 ## AUTHOR
 
-Kentarok Kuribayashi
+Kentaro Kuribayashi
 
 ## COPYRIGHT AND LICENSE
 
